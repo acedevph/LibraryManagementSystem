@@ -217,3 +217,11 @@ The program loads the following sample data on startup for immediate testing:
 | Safe Delete (Book) | A book with borrowed copies cannot be deleted |
 | Safe Delete (Member) | A member with unreturned books cannot be removed |
 | Total Copies Update | Cannot set total copies lower than currently borrowed count |
+
+---
+
+## Author
+
+**acedevph**
+
+---
